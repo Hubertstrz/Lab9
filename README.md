@@ -1,2 +1,2 @@
-## Feature
-Opis nowej funkcjonalności
+
+Zmiana w galęzi
