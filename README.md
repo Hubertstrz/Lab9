@@ -1,2 +1,2 @@
-# Lab 9 
-Sprawozdanie do ćwiczen z github
+## Sekcja 1
+Pierwsza sekcja README
