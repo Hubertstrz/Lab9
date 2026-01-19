@@ -1,2 +1,2 @@
-kod 
-Zmiana w galęzi test
+## Feature
+Opis nowej funkcjonalności
