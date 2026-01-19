@@ -1,2 +1,2 @@
-## Sekcja 2 
-Druga sekcja README
+## Sekcja 3 
+Trzecia sekcja README
